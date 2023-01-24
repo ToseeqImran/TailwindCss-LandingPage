@@ -1,11 +1,3 @@
-# TailwindCSS Standalone project
+# TailwindCSS Landing page
 
 
-
-## liveServer settings
-```
-"liveServer.settings.root": "src/"
-
-# how to run 
-dev
-```
